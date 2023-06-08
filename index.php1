@@ -1,0 +1,4 @@
+<?php 
+echo "<div align=\"center\"><b>JBABOGADOS</b></div><br>";
+echo "<div align=\"center\"><b>EN CONSTRUCCION</b></div><br>";
+?>
